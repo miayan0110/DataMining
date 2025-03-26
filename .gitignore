@@ -1,2 +1,4 @@
 *.csv
 *.pdf
+*.pth
+hw2/records/*
