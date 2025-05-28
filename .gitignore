@@ -2,3 +2,5 @@
 *.pdf
 *.pth
 hw2/records/*
+hw3/records/*
+hw3/data/*
